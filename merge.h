@@ -1,4 +1,6 @@
+
 /****************************Print function********************************************/
+/*
 void print(int arr[], int size) {
     for (int i = 0; i < size;i++) {         //print until size i is equal to or greater than size
         cout << arr[i] << " ";
